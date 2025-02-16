@@ -1,0 +1,28 @@
+{
+  "name": "exchange",
+  "version": "1.0.0",
+  "description": "exchange monorepo",
+  "keywords": [
+    "exchange"
+  ],
+  "homepage": "https://github.com/yeabu369/CoinExchange_CryptoExchange_Java#readme",
+  "bugs": {
+    "url": "https://github.com/yeabu369/CoinExchange_CryptoExchange_Java/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeabu369/CoinExchange_CryptoExchange_Java.git"
+  },
+  "license": "MIT",
+  "author": "Yeabsra Hailu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nx": "20.4.4"
+  },
+  "nx": {}
+}
